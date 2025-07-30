@@ -1,0 +1,5 @@
+{
+  "name": "DeepStat",
+  "description": "An AI-powered football match predictor that uses advanced analysis and web search to provide highly accurate predictions on match outcomes, scorelines, and probabilities.",
+  "requestFramePermissions": []
+}
